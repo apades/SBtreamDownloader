@@ -1,0 +1,10 @@
+{
+    "subtitles": [
+        {
+            "start": "00:00",
+            "end": "00:25",
+            "effect": "Banner;30[;lefttoright;;]",
+            "text": "测试测试"
+        }
+    ]
+}
